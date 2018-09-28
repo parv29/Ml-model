@@ -1,4 +1,4 @@
-# Simple Linear Regression
+# multiple Linear Regression
 
 # Importing the libraries
 
@@ -34,7 +34,7 @@ regressor.fit(xtrain,ytrain)
 # Predicting the Test set results
 ypred=regressor.predict(xtest)
 
-# Backward Elemination
+# Backward Elimination
 import statsmodels.formula.api as sm
 x=np.append(arr=np.ones((50,1)).astype(int),axis=1,values=x)
 x_opt=x[:,[0,1,3,4,5]]
