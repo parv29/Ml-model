@@ -2,7 +2,7 @@ Hello everyone these are some of the basic models of machine learning implemente
 1-  linear regression
 2- multiple linear regression
 3- polynomial regression
-4- random forest 
+4- random forest. 
 I will add 4 new models every week and i wish they will help you out in implementing machine learning models 
 
 Thank you 
